@@ -4,9 +4,9 @@ ignore the minor slur on my drawing, i'm too lazy to remove it cause i'll have t
 ### Yoo, seems you found my github didn't ya?
 
 - 🔭 I’m currently working on :
-  A personal Website of mine.
+  A 2d platformer game framework written in C that uses SDL2.
 - 🌱 I’m currently learning:
-  NodeJs, Mongodb, better error handling, and Rest Apis
+  whywhywhywhywhywhywhywhyw
 - ⚡ Stuff i like :
   Linux, FOSS, Customization, Art, GameDev, and creating stuff in general.
 
