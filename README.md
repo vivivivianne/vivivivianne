@@ -15,5 +15,4 @@ ignore the minor slur on my drawing, i'm too lazy to remove it cause i'll have t
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayonnaiseTraveler&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayonnaiseTraveler&theme=merko&exclude_repo=dotfiles&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayonnaiseTraveler&count_private=true&theme=merko&exclude_repo=dotfiles,study,angulartest,github-slideshow&langs_count=10)
