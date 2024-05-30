@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/70679402/183266195-1183918d-ac3f-4eb0-8a93-25d4817f9635.png)
-ignore the minor slur on my drawing, i'm too lazy to remove it cause i'll have to re-edit the background all again and stuff.
-
 ### Yoo, seems you found my github didn't ya?
 
 - 🔭 I’m currently working on : <br>
