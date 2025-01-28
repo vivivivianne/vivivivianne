@@ -1,14 +1,13 @@
-### Yoo, seems you found my github didn't ya?
+### Hii, seems you found my github didn't ya :P ?
 
 - 🔭 I’m currently working on : <br>
   - 🏃‍➡️ A 2d platformer game framework written in C that uses SDL2.<br>
-  - ⌨️ Soldering and assembling a custom keyboard.<br>
 - 🌱 I’m currently learning:
   - 🎓 Computer Enginnering on UFSC.<br> 
   - 🎮 Gamedev.<br>
   - 🎨 Art.<br>
 - ⚡ Stuff i like : <br>
-  Linux, FOSS, Customization, Art, GameDev, and creating things in general.
+  Linux, Rice, Art, GameDev, and creating things in general.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayonnaiseTraveler&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
