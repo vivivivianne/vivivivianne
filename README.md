@@ -1,15 +1,7 @@
 
 
 <div align="center" id="user-content-toc">
-
-<p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
-  <h3>.ᯓ★   Hiii Welcome to my github profile !!!   ｡𖦹°‧</h3>
-  <br>
-  <ul>
-    <summary><h2>૮꒰˶ᵔ ᵕ ᵔ˶꒱ა</h2></summary>
-  </ul>
-  <br>
-  <h3><b>⋆☕︎ ˖</b>  About me: <b>⋆☕︎ ˖</b>  </h3>
+  <h1><b>⋆☕︎ ˖</b>  About me: <b>⋆☕︎ ˖</b>  </h1>
 <p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
 <br>
 
