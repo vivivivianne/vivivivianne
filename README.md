@@ -13,10 +13,6 @@
 <p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
 <br>
 
-★ I'm developing a 2D platformer game framework in C with [SDL](https://www.libsdl.org/) ★
-
-★ And also a personal Website ★
-
 ★ I'm a college student at [UFSC](https://ufsc.br/) ★
 
 ★ I mainly code in C, but also know python, node, bash, java, etc ★
@@ -27,12 +23,5 @@
 
 <br>
 <p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
-<pre>⠀⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀
-⠀⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀⠀⣼⠃⠀⠘⢧⠀⠀
-⠀⢸⣶⣄⠀⠀⠸⡆⠀⠀⠀⣸⠃⠀⠀⠀⠈⢧⠀
-⠀⠈⣇⣿⡃⠀⠀⣧⠀⠀⠀⣿⣷⣦⠀⠀⠀⠸⡆
-⠀⠀⢹⣙⣇⠀⠀⢸⠀⠀⠀⢸⣿⣧⠘⢧⡀⣸⠃
-⠀⠀⠀⢻⣿⠀⠀⢸⡆⠀⠀⢸⣿⡏⠀⣼⠀⠀⠀
-</pre>
 </div>
+
