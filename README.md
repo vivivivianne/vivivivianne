@@ -1,7 +1,7 @@
 
 
 <div align="center" id="user-content-toc">
-  <h1><b>⋆☕︎ ˖</b>  About me: <b>⋆☕︎ ˖</b>  </h1>
+  <h2><b>⋆☕︎ ˖</b>  About me: <b>⋆☕︎ ˖</b>  </h2>
 <p><b>────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────⋆⋅☆⋅⋆────────</b></p>
 <br>
 
